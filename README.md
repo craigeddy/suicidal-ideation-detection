@@ -32,7 +32,7 @@ Word cloud representing words related to general issues topic |  Word cloud repr
 -----------------------------
 
 <object data="https://github.com/kushg18/suicidal-ideation-detection/blob/master/poster/poster.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/kushg18/suicidal-ideation-detection/blob/master/poster/poster.pdf">
+    <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/kushg18/suicidal-ideation-detection/blob/master/poster/poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: 
             <a href="https://github.com/kushg18/suicidal-ideation-detection/blob/master/poster/poster.pdf">Download PDF
             </a>.
