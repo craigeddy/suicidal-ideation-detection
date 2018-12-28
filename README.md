@@ -21,8 +21,6 @@ Although there are lots of researchers and suicide prevention teams out there to
 ### Word Cloud ###
 -----------------------------
 
-#### Word cloud representing words related to general issues topic ####
-![alt text](https://github.com/kushg18/suicidal-ideation-detection/blob/master/bagOfWords/mentalBOW.png)
-
-#### Word cloud representing words related to suicidal ideation topic ####
-![alt text](https://github.com/kushg18/suicidal-ideation-detection/blob/master/bagOfWords/suicideBOW.png)
+Word cloud representing words related to general issues topic |  Word cloud representing words related to suicidal ideation topic
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/kushg18/suicidal-ideation-detection/blob/master/bagOfWords/mentalBOW.png)  |  ![alt text](https://github.com/kushg18/suicidal-ideation-detection/blob/master/bagOfWords/suicideBOW.png)
